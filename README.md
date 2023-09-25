@@ -7,7 +7,7 @@ This repository contains the terraform file code, which we can use to provision 
 ![Architecture Diagram](https://cdn-images-1.medium.com/max/800/1*T5IRoSoiqT8qnYLUprsRUQ.png)
 
 ## Note and Links
-We are currently on Blog 2
+https://shreyashbhise.hashnode.dev/gitops-and-argocd-complete-hands-on-project
 
 
 
@@ -68,13 +68,7 @@ Finally, HIT the below command to create the infrastructure...
 
 type yes, and it will prompt you for permission or use --auto-approve in the command above.
 
-This blog contains Three GitHub repository
 
-➡️ [App Code] (https://github.com/chauhan-himani/AppCode)
-
-➡️ [Terraform code] (https://github.com/chauhan-himani/kube_terraform)
-
-➡️ [Manifest Repo] (https://github.com/chauhan-himani/kube_manifest)
 
 If you want to learn how I created this project, please review my blogs. I've shared links to all the blogs above.👆
 
