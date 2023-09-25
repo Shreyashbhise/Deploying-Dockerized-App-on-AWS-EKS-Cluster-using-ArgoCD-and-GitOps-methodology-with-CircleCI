@@ -9,13 +9,7 @@ This repository contains the terraform file code, which we can use to provision 
 ## Note and Links
 We are currently on Blog 2
 
-Blog 1: [Blog 1] (https://medium.com/p/71983375e550/edit) 
 
-Blog 2: [Blog 2] (https://medium.com/p/aa96d9a00391/edit) 
-
-Blog 3: [Blog 3] (https://medium.com/p/e604412e959f/edit)
-
-Blog 4: [Blog 4] (https://medium.com/p/9e3d62e1c093/edit)
 
 ## Installation of Terraform
 Follow the blog to Install the Terraform and another dependency.
